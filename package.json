@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "express": "^4.17.1",
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "dobble",
+  "version": "1.0.0",
+  "description": "dobble generator",
+  "main": "sketch.js",
+  "keywords": [
+    "dobble",
+    "clone",
+    "generator",
+    "procedural"
+  ],
+  "author": "Nicolás Garitagoitia",
+  "license": "MIT"
+}
